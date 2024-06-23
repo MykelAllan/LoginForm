@@ -2,6 +2,9 @@
 
 This is a simple HTML login form design with basic styling using CSS and icons from Boxicons.
 
+## Demo
+Check out the live demo: [loginForm](https://login-form-mykel.vercel.app/)
+
 ## Files
 
 - **index.html:** Contains the HTML structure for the login form.
@@ -9,7 +12,7 @@ This is a simple HTML login form design with basic styling using CSS and icons f
 
 ## Preview
 
-![Login Form Preview](https://login-form-mykel.vercel.app/)
+![Login Form Preview](assets/preview/preview.png)
 
 ## How to Use
 
